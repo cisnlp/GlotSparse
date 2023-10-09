@@ -1,0 +1,45 @@
+# GlotSparse
+**Awesome Corpora in Under-Resourced Languages (Mostly News).**
+
+| Language          | ISO Code | Websites (Mostly News) | Download Link of Data | Papers referenced these websites |
+|-------------------|----------|----------|----------|-------------------|
+| Balochi           | bal      | [sunnionline](https://sunnionline.us/balochi/), [kissah](https://kissah.org/), [baask](https://baask.com/archive/category/balochi/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Bhojpuri          | bho      | [anjoria](https://www.anjoria.com/news_in_bhojpuri), tatkaa Khabar, bhojpuria BlogSpot, Dailyhunt, Jogira, pandjiblogspot, manojbhawuk.com | [bho-resources](https://github.com/shashwatup9k/bho-resources) | [English-Bhojpuri SMT System](https://arxiv.org/abs/1905.02239) |
+| Gilaki            | glk      | [gilaki_twitter](https://t.me/gilaki_twitter) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Brahui            | brh      | [talarbrahui](https://talarbrahui.com) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Southern-Kurdish  | sdh      | [shafaq.com/ku](https://shafaq.com/ku/) (Feyli) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Gurani            | hac      | [anfsorani.com/هۆرامی](https://anfsorani.com/هۆرامی) (Hawrami) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Kirmanjki         | kiu      | [anfkirmancki.com](https://anfkirmancki.com/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Fanti             | fat      | [akannews.com/fante/](https://akannews.com/fante/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Twi               | twi      | [akannews.com/asante-twi/](https://akannews.com/asante-twi/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| South-Azerbaijani | azb      | [trt.net.tr/turki](https://www.trt.net.tr/turki/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Southern Uzbek    | uzs      | [trt.net.tr/afghaniuzbek](https://www.trt.net.tr/afghaniuzbek/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
+| Ganda             | lug      | [bukedde](https://www.bukedde.co.ug/category/amawulire) | [African News Corpus](https://zenodo.org/record/6990609#.Y8AoCuzP22o) (lug subset) | - |
+| Nyanja            | nya      | [mwnation](https://mwnation.com/section/chichewa/), Malawi Broadcast Corporation, radiomaria.mw | [ai4d challenge](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge/data) | [AI4D - African Language Dataset Challenge](https://aclanthology.org/2020.winlp-1.18/)
+
+## License
+We do not own any of the text from which these data has been extracted. We license the actual packaging, the metadata and the annotations of these data under the cc0-1.0 (waiving all of the rights under copyright law).
+
+If you are a website/dataset owner and do not want your data to be included in this table, please send us an email at amir@cis.lmu.de .
+
+## Ethical Considerations
+1. Biases: The text corpus may reflect the perspectives, opinions, or demographics of its sources or creators. It is important for users to critically evaluate the text in context especially for news sources and social medias.
+
+2. Representativeness: While we have aimed for diversity and inclusivity, the text corpus may not fully represent all native speakers. Users should be mindful of any potential underrepresentation.
+
+3. Ethics: We acknowledge that the collection and use of text data can have ethical implications. We have strived to handle the data responsibly, but we encourage users to consider the broader ethical implications of their own research or applications.
+
+
+## Citation
+
+If you use any part of this metadata or GlotSparse data in your research, please cite it using the following BibTeX entry.
+
+```plaintext
+@misc{GlotSparse,
+  author = {Kargaran, Amir Hossein},
+  title = {GlotSparse Corpus},
+  year = {2023},
+  publisher = {Huggingface},
+  journal = {Huggingface Repository},
+  howpublished = {\url{https://huggingface.co/datasets/kargaranamir/GlotSparse}},
+}
