@@ -1,5 +1,5 @@
 # GlotSparse
-**Awesome Corpora in Under-Resourced Languages (Mostly News).**
+**Awesome Corpora (Mostly News) in Under-Resourced Languages.**
 
 | Language          | ISO Code | Websites (Mostly News) | Download Link of Data | Papers referenced these websites |
 |-------------------|----------|----------|----------|-------------------|
@@ -33,13 +33,14 @@ If you are a website/dataset owner and do not want your data to be included in t
 ## Citation
 
 If you use any part of this metadata or GlotSparse data in your research, please cite it using the following BibTeX entry.
-
-```plaintext
-@misc{GlotSparse,
-  author = {Kargaran, Amir Hossein},
-  title = {GlotSparse Corpus},
-  year = {2023},
-  publisher = {Huggingface},
-  journal = {Huggingface Repository},
-  howpublished = {\url{https://huggingface.co/datasets/kargaranamir/GlotSparse}},
+This work is compiled as part of the [GlotLID](https://github.com/cisnlp/GlotLID) project.
+```
+@inproceedings{
+  kargaran2023glotlid,
+  title={{GlotLID}: Language Identification for Low-Resource Languages},
+  author={Kargaran, Amir Hossein and Imani, Ayyoob and Yvon, Fran{\c{c}}ois and Sch{\"u}tze, Hinrich},
+  booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+  year={2023},
+  url={https://openreview.net/forum?id=dl4e3EBz5j}
 }
+```
