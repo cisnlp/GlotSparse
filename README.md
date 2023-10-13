@@ -15,7 +15,8 @@
 | South-Azerbaijani | azb      | [trt.net.tr/turki](https://www.trt.net.tr/turki/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
 | Southern Uzbek    | uzs      | [trt.net.tr/afghaniuzbek](https://www.trt.net.tr/afghaniuzbek/) | [GlotSparse](https://huggingface.co/datasets/kargaranamir/GlotSparse) | - |
 | Ganda             | lug      | [bukedde](https://www.bukedde.co.ug/category/amawulire) | [African News Corpus](https://zenodo.org/record/6990609#.Y8AoCuzP22o) (lug subset) | - |
-| Nyanja            | nya      | [mwnation](https://mwnation.com/section/chichewa/), Malawi Broadcast Corporation, radiomaria.mw | [ai4d challenge](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge/data) | [AI4D - African Language Dataset Challenge](https://aclanthology.org/2020.winlp-1.18/)
+| Nyanja            | nya      | [mwnation](https://mwnation.com/section/chichewa/), Malawi Broadcast Corporation, radiomaria.mw | [ai4d challenge](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge/data) | [AI4D - African Language Dataset Challenge](https://aclanthology.org/2020.winlp-1.18/) |
+| Luo (Kenya and Tanzania)     | luo      | [Radio Ramogi](https://rmsradio.co.ke/brands/ramogi-fm/) | [Luo](https://github.com/Pogayo/Luo-News-Dataset/blob/master/LUO.txt) | - |
 
 ## License
 We do not own any of the text from which these data has been extracted. We license the actual packaging, the metadata and the annotations of these data under the cc0-1.0 (waiving all of the rights under copyright law).
