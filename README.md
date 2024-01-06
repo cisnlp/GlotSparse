@@ -24,6 +24,9 @@
 | Ossetian | oss | [jinepsgazetesi-osetce](https://jinepsgazetesi.com/category/anadilimde-jineps/osetce/) | | GlotLID search on commoncrawl |
 | Macedonian | mkd | [newborn.mk](https://www.newborn.mk/mk/), [infomax.mk](https://infomax.mk/), | | GlotLID search on commoncrawl |
 | Tajik | tgk | [bomdod.com](https://www.bomdod.com/), [tg.songzac.com](http://tg.songzac.com), [vakhsh.tj](https://vakhsh.tj) | | GlotLID search on commoncrawl | 
+| Kannada | kan | [vijaykarnataka.com](https://vijaykarnataka.com/) | | GlotLID search on commoncrawl | 
+
+
 
 
 ## License
