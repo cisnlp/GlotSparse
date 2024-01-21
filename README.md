@@ -18,14 +18,13 @@
 | Nyanja            | nya      | [mwnation](https://mwnation.com/section/chichewa/), Malawi Broadcast Corporation, radiomaria.mw | [ai4d challenge](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge/data) | [AI4D - African Language Dataset Challenge](https://aclanthology.org/2020.winlp-1.18/) |
 | Luo (Kenya and Tanzania)     | luo      | [Radio Ramogi](https://rmsradio.co.ke/brands/ramogi-fm/) | [Luo](https://github.com/Pogayo/Luo-News-Dataset/blob/master/LUO.txt) | [MAFT](https://arxiv.org/abs/2204.06487) |
 | Abkhazian | abk | [jinepsgazetesi-abazaca](https://jinepsgazetesi.com/category/anadilimde-jineps/abazaca/) | | GlotLID search on commoncrawl |
-| Abkhazian | abk | [jinepsgazetesi-abazaca](https://jinepsgazetesi.com/category/anadilimde-jineps/abazaca/) | | GlotLID search on commoncrawl |
 | Chechen | che | [jinepsgazetesi-cecence](https://jinepsgazetesi.com/category/anadilimde-jineps/cecence/) | | GlotLID search on commoncrawl |
 | Adyghe | ady | [jinepsgazetesi-adigece](https://jinepsgazetesi.com/category/anadilimde-jineps/adigece/) | | GlotLID search on commoncrawl | 
 | Ossetian | oss | [jinepsgazetesi-osetce](https://jinepsgazetesi.com/category/anadilimde-jineps/osetce/) | | GlotLID search on commoncrawl |
 | Macedonian | mkd | [newborn.mk](https://www.newborn.mk/mk/), [infomax.mk](https://infomax.mk/), | | GlotLID search on commoncrawl |
 | Tajik | tgk | [bomdod.com](https://www.bomdod.com/), [tg.songzac.com](http://tg.songzac.com), [vakhsh.tj](https://vakhsh.tj) | | GlotLID search on commoncrawl | 
 | Kannada | kan | [vijaykarnataka.com](https://vijaykarnataka.com/) | | GlotLID search on commoncrawl | 
-
+| New Tai Lue script (Lü) | Talu (khb) | [dw12.com](https://www.dw12.com/) | | Glotscript search on web | 
 
 
 
