@@ -25,7 +25,7 @@
 | Tajik | tgk | [bomdod.com](https://www.bomdod.com/), [tg.songzac.com](http://tg.songzac.com), [vakhsh.tj](https://vakhsh.tj) | | GlotLID search on commoncrawl | 
 | Kannada | kan | [vijaykarnataka.com](https://vijaykarnataka.com/) | | GlotLID search on commoncrawl | 
 | New Tai Lue script (Lü) | Talu (khb) | [dw12.com](https://www.dw12.com/) | | Glotscript search on web | 
-
+| Sardinian| srd | [salimbasarda.net](https://salimbasarda.net/) | | GlotLID search on web | 
 
 
 ## License
